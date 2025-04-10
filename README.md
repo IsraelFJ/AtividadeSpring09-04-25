@@ -1,6 +1,6 @@
 <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
     <h1 style="color:rgb(76, 73, 231);">Atividade Pontuada 10/04/2025 </h1>
-     <h3 style="color: #000000;"> Nesta atividade pontuada foi proposto criar uma API REST e subir para o GITHUB |<b> Professoor : Carlos Anderson</b> </h3>
+     <h3 style="color: #000000;"> Nesta atividade pontuada foi proposto criar uma API REST e subir para o GITHUB |<b> Professor : Carlos Anderson</b> </h3>
       <h5>Nesta atividade utilizei, Spring initializr gerando arquivo com extenções, Spring Boot DevTools, Spring Web, H2 Database, Validation e Spring Data JPA . </h5>
 </div>
 <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
